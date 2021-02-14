@@ -1,6 +1,6 @@
 # {happy trails travel agency}
 
-#### {A webpage with of a travel agency. I used this project to practice my lessons on divs and spans.}, {2021}
+#### {A webpage of a travel agency called happy trails. It shows what travel destinations are available.}, {2021}
 
 #### By **{Grace Wairimu Karuga}**
 
